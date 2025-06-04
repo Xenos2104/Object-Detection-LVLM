@@ -1,0 +1,100 @@
+{"image": ["./data/test/003001.jpg"], "query": "what is written on the ghost?", "response": "{\"bbox_2d\": [460, 635, 513, 669]}"}
+{"image": ["./data/test/003002.jpg"], "query": "what is the name of the website written on this image?", "response": "{\"bbox_2d\": [731, 600, 1018, 620]}"}
+{"image": ["./data/test/003003.jpg"], "query": "what numbered album is the photo from?", "response": "{\"bbox_2d\": [959, 628, 1019, 649]}"}
+{"image": ["./data/test/003004.jpg"], "query": "what number is visible on the back of the left man's shirt?", "response": "{\"bbox_2d\": [1, 470, 83, 604]}"}
+{"image": ["./data/test/003005.jpg"], "query": "what letter is on the mans ball cap?", "response": "{\"bbox_2d\": [530, 181, 576, 223]}"}
+{"image": ["./data/test/003006.jpg"], "query": "does the novel has two authors?", "response": "{\"bbox_2d\": [64, 760, 629, 875]}"}
+{"image": ["./data/test/003007.jpg"], "query": "what is the title of the book?", "response": "{\"bbox_2d\": [54, 58, 615, 368]}"}
+{"image": ["./data/test/003008.jpg"], "query": "what is the word on the right side of this coin?", "response": "{\"bbox_2d\": [562, 97, 936, 792]}"}
+{"image": ["./data/test/003009.jpg"], "query": "what brand of watch is this?", "response": "{\"bbox_2d\": [386, 274, 614, 337]}"}
+{"image": ["./data/test/003010.jpg"], "query": "what color is the word rolex wrote in?", "response": "{\"bbox_2d\": [431, 276, 584, 316]}"}
+{"image": ["./data/test/003011.jpg"], "query": "what kind of paternity test?", "response": "{\"bbox_2d\": [438, 690, 580, 742]}"}
+{"image": ["./data/test/003012.jpg"], "query": "how much does this test cost?", "response": "{\"bbox_2d\": [114, 926, 219, 956]}"}
+{"image": ["./data/test/003013.jpg"], "query": "what does the it say at the bottom right in the flames?", "response": "{\"bbox_2d\": [899, 699, 1001, 730]}"}
+{"image": ["./data/test/003014.jpg"], "query": "who is number 40 on the team?", "response": "{\"bbox_2d\": [340, 424, 518, 499]}"}
+{"image": ["./data/test/003015.jpg"], "query": "blue guy's jersey number on the left?", "response": "{\"bbox_2d\": [38, 497, 81, 544]}"}
+{"image": ["./data/test/003016.jpg"], "query": "what is the number of the blue jersey in the center?", "response": "{\"bbox_2d\": [425, 496, 482, 546]}"}
+{"image": ["./data/test/003017.jpg"], "query": "what instrument is this?", "response": "{\"bbox_2d\": [4, 254, 1015, 683]}"}
+{"image": ["./data/test/003018.jpg"], "query": "what company made this product?", "response": "{\"bbox_2d\": [600, 599, 1004, 683]}"}
+{"image": ["./data/test/003019.jpg"], "query": "does this offer a credit?", "response": "{\"bbox_2d\": [135, 382, 224, 428]}"}
+{"image": ["./data/test/003020.jpg"], "query": "what area code do you dial if you find one of these lost kegs?", "response": "{\"bbox_2d\": [293, 399, 325, 418]}"}
+{"image": ["./data/test/003021.jpg"], "query": "what number of guy in middle?", "response": "{\"bbox_2d\": [614, 277, 693, 322]}"}
+{"image": ["./data/test/003022.jpg"], "query": "what is the name of one of the magazines?", "response": "{\"bbox_2d\": [160, 266, 267, 302]}"}
+{"image": ["./data/test/003023.jpg"], "query": "what type of device is this?", "response": "{\"bbox_2d\": [260, 160, 397, 194]}"}
+{"image": ["./data/test/003024.jpg"], "query": "what search engine is displayed?", "response": "{\"bbox_2d\": [148, 247, 342, 315]}"}
+{"image": ["./data/test/003025.jpg"], "query": "what department is responsible for this street sign?", "response": "{\"bbox_2d\": [574, 583, 739, 638]}"}
+{"image": ["./data/test/003026.jpg"], "query": "what side is this sign pointing to?", "response": "{\"bbox_2d\": [254, 84, 705, 201]}"}
+{"image": ["./data/test/003027.jpg"], "query": "what is the name of this magazine?", "response": "{\"bbox_2d\": [3, 38, 743, 194]}"}
+{"image": ["./data/test/003028.jpg"], "query": "what town was this sent from?", "response": "{\"bbox_2d\": [301, 367, 756, 443]}"}
+{"image": ["./data/test/003029.jpg"], "query": "what kind of card is this?", "response": "{\"bbox_2d\": [259, 118, 757, 307]}"}
+{"image": ["./data/test/003030.jpg"], "query": "what jersey number is the pitcher?", "response": "{\"bbox_2d\": [321, 301, 380, 347]}"}
+{"image": ["./data/test/003031.jpg"], "query": "what airline is this plane from?", "response": "{\"bbox_2d\": [577, 317, 652, 352]}"}
+{"image": ["./data/test/003032.jpg"], "query": "what does the blue word on the plane say?", "response": "{\"bbox_2d\": [656, 324, 737, 353]}"}
+{"image": ["./data/test/003033.jpg"], "query": "when was this photo taken?", "response": "{\"bbox_2d\": [3, 3, 44, 14]}"}
+{"image": ["./data/test/003034.jpg"], "query": "how many ml does the bottle have?", "response": "{\"bbox_2d\": [69, 80, 109, 122]}"}
+{"image": ["./data/test/003035.jpg"], "query": "what animal is written on the bottom of his shirt?", "response": "{\"bbox_2d\": [216, 522, 368, 559]}"}
+{"image": ["./data/test/003036.jpg"], "query": "what kind of pad is it?", "response": "{\"bbox_2d\": [265, 127, 340, 145]}"}
+{"image": ["./data/test/003037.jpg"], "query": "what program is open?", "response": "{\"bbox_2d\": [493, 117, 548, 132]}"}
+{"image": ["./data/test/003038.jpg"], "query": "what's the brand of laptop?", "response": "{\"bbox_2d\": [504, 328, 546, 338]}"}
+{"image": ["./data/test/003039.jpg"], "query": "what brand of laptop is this?", "response": "{\"bbox_2d\": [504, 325, 545, 339]}"}
+{"image": ["./data/test/003040.jpg"], "query": "what play is being advertised in green?", "response": "{\"bbox_2d\": [154, 262, 222, 351]}"}
+{"image": ["./data/test/003041.jpg"], "query": "what is written on the side of that yellow cab?", "response": "{\"bbox_2d\": [357, 558, 395, 586]}"}
+{"image": ["./data/test/003042.jpg"], "query": "what is the name of this magazine?", "response": "{\"bbox_2d\": [34, 141, 292, 618]}"}
+{"image": ["./data/test/003043.jpg"], "query": "whats the womanholding?", "response": "{\"bbox_2d\": [419, 437, 515, 486]}"}
+{"image": ["./data/test/003044.jpg"], "query": "what does the sign say?", "response": "{\"bbox_2d\": [752, 67, 894, 211]}"}
+{"image": ["./data/test/003045.jpg"], "query": "what is the last letter of the word written on the sign?", "response": "{\"bbox_2d\": [856, 116, 898, 217]}"}
+{"image": ["./data/test/003046.jpg"], "query": "what is the last memory of?", "response": "{\"bbox_2d\": [610, 13, 862, 98]}"}
+{"image": ["./data/test/003047.jpg"], "query": "what number cab is this?", "response": "{\"bbox_2d\": [679, 406, 782, 456]}"}
+{"image": ["./data/test/003048.jpg"], "query": "what is the car number?", "response": "{\"bbox_2d\": [706, 408, 778, 452]}"}
+{"image": ["./data/test/003049.jpg"], "query": "who's tales are these?", "response": "{\"bbox_2d\": [97, 85, 636, 349]}"}
+{"image": ["./data/test/003050.jpg"], "query": "what kind of yarns are these unseen terrors?", "response": "{\"bbox_2d\": [525, 264, 639, 308]}"}
+{"image": ["./data/test/003051.jpg"], "query": "which letters comprise the logo on this man's hat?", "response": "{\"bbox_2d\": [497, 357, 537, 401]}"}
+{"image": ["./data/test/003052.jpg"], "query": "what brand is his cleats?", "response": "{\"bbox_2d\": [314, 862, 372, 926]}"}
+{"image": ["./data/test/003053.jpg"], "query": "what is this drink called?", "response": "{\"bbox_2d\": [135, 765, 289, 804]}"}
+{"image": ["./data/test/003054.jpg"], "query": "what version is it?", "response": "{\"bbox_2d\": [150, 841, 222, 870]}"}
+{"image": ["./data/test/003055.jpg"], "query": "what three numbers can be seen on the second coin?", "response": "{\"bbox_2d\": [154, 413, 286, 480]}"}
+{"image": ["./data/test/003056.jpg"], "query": "what year was the coin made?", "response": "{\"bbox_2d\": [552, 605, 822, 693]}"}
+{"image": ["./data/test/003057.jpg"], "query": "how much does this book cost?", "response": "{\"bbox_2d\": [583, 28, 660, 80]}"}
+{"image": ["./data/test/003058.jpg"], "query": "what key on the keyboard is the figure resting on?", "response": "{\"bbox_2d\": [415, 617, 475, 660]}"}
+{"image": ["./data/test/003059.jpg"], "query": "what color is the text pie?", "response": "{\"bbox_2d\": [278, 17, 606, 160]}"}
+{"image": ["./data/test/003060.jpg"], "query": "what type of food is spelled out above the clock?", "response": "{\"bbox_2d\": [273, 11, 610, 167]}"}
+{"image": ["./data/test/003061.jpg"], "query": "what is the company on the right?", "response": "{\"bbox_2d\": [747, 4, 839, 104]}"}
+{"image": ["./data/test/003062.jpg"], "query": "what is the name of the business of the left hand side in oragne?", "response": "{\"bbox_2d\": [751, 334, 829, 371]}"}
+{"image": ["./data/test/003063.jpg"], "query": "15:20 15:21 15:20 15:20 15:21?", "response": "{\"bbox_2d\": [0, 0, 0, 0]}"}
+{"image": ["./data/test/003064.jpg"], "query": "is this a stop sign?", "response": "{\"bbox_2d\": [147, 552, 566, 731]}"}
+{"image": ["./data/test/003065.jpg"], "query": "what page is the left?", "response": "{\"bbox_2d\": [37, 34, 74, 62]}"}
+{"image": ["./data/test/003066.jpg"], "query": "who is 45 and single?", "response": "{\"bbox_2d\": [630, 104, 916, 433]}"}
+{"image": ["./data/test/003067.jpg"], "query": "when does this air?", "response": "{\"bbox_2d\": [108, 137, 288, 609]}"}
+{"image": ["./data/test/003068.jpg"], "query": "what's this twitter account's username?", "response": "{\"bbox_2d\": [227, 128, 372, 158]}"}
+{"image": ["./data/test/003069.jpg"], "query": "is this a search for danny  sullivan?", "response": "{\"bbox_2d\": [223, 126, 376, 156]}"}
+{"image": ["./data/test/003070.jpg"], "query": "what number is on the back of the one with blue sleeves?", "response": "{\"bbox_2d\": [836, 240, 877, 311]}"}
+{"image": ["./data/test/003071.jpg"], "query": "what brand is the laptop?", "response": "{\"bbox_2d\": [471, 506, 557, 531]}"}
+{"image": ["./data/test/003072.jpg"], "query": "what are the letters on the man's shoulder?", "response": "{\"bbox_2d\": [556, 217, 595, 250]}"}
+{"image": ["./data/test/003073.jpg"], "query": "what letter is on the hat?", "response": "{\"bbox_2d\": [468, 138, 650, 302]}"}
+{"image": ["./data/test/003074.jpg"], "query": "what type of trashcan is it?", "response": "{\"bbox_2d\": [623, 324, 693, 350]}"}
+{"image": ["./data/test/003075.jpg"], "query": "what is the brand of the yellow bin?", "response": "{\"bbox_2d\": [629, 324, 694, 348]}"}
+{"image": ["./data/test/003076.jpg"], "query": "what number is the little hand pointing to?", "response": "{\"bbox_2d\": [344, 93, 406, 146]}"}
+{"image": ["./data/test/003077.jpg"], "query": "how many days does the watch say?", "response": "{\"bbox_2d\": [423, 266, 444, 302]}"}
+{"image": ["./data/test/003078.jpg"], "query": "what armed forces is on airplane?", "response": "{\"bbox_2d\": [318, 442, 509, 460]}"}
+{"image": ["./data/test/003079.jpg"], "query": "what number is written on the front of the plane?", "response": "{\"bbox_2d\": [100, 421, 137, 447]}"}
+{"image": ["./data/test/003080.jpg"], "query": "what company made this machine?", "response": "{\"bbox_2d\": [381, 134, 484, 172]}"}
+{"image": ["./data/test/003081.jpg"], "query": "what word is displayed on the clock?", "response": "{\"bbox_2d\": [580, 225, 831, 393]}"}
+{"image": ["./data/test/003082.jpg"], "query": "what is this book called?", "response": "{\"bbox_2d\": [72, 105, 586, 429]}"}
+{"image": ["./data/test/003083.jpg"], "query": "is this a bantam book?", "response": "{\"bbox_2d\": [200, 31, 267, 52]}"}
+{"image": ["./data/test/003084.jpg"], "query": "what is the brand of phone?", "response": "{\"bbox_2d\": [484, 286, 582, 339]}"}
+{"image": ["./data/test/003085.jpg"], "query": "what is the title of the book?", "response": "{\"bbox_2d\": [151, 431, 595, 829]}"}
+{"image": ["./data/test/003086.jpg"], "query": "who wrote this book?", "response": "{\"bbox_2d\": [241, 366, 479, 468]}"}
+{"image": ["./data/test/003087.jpg"], "query": "what is the score?", "response": "{\"bbox_2d\": [587, 81, 647, 118]}"}
+{"image": ["./data/test/003088.jpg"], "query": "what does the sign say?", "response": "{\"bbox_2d\": [152, 378, 210, 405]}"}
+{"image": ["./data/test/003089.jpg"], "query": "what national park is mentioned on the license plate?", "response": "{\"bbox_2d\": [346, 548, 471, 585]}"}
+{"image": ["./data/test/003090.jpg"], "query": "what kind of bus is this?", "response": "{\"bbox_2d\": [316, 59, 521, 159]}"}
+{"image": ["./data/test/003091.jpg"], "query": "what phone number is on the back of this bus?", "response": "{\"bbox_2d\": [88, 406, 278, 461]}"}
+{"image": ["./data/test/003092.jpg"], "query": "what website is being visited on the screen on the left?", "response": "{\"bbox_2d\": [30, 158, 113, 176]}"}
+{"image": ["./data/test/003093.jpg"], "query": "which sponsor starts with an a?", "response": "{\"bbox_2d\": [57, 452, 211, 508]}"}
+{"image": ["./data/test/003094.jpg"], "query": "what windows operating system is being advertised?", "response": "{\"bbox_2d\": [47, 390, 237, 447]}"}
+{"image": ["./data/test/003095.jpg"], "query": "what type of training?", "response": "{\"bbox_2d\": [307, 182, 370, 217]}"}
+{"image": ["./data/test/003096.jpg"], "query": "what are the 3 letters at the top on the left side of the board?", "response": "{\"bbox_2d\": [203, 184, 301, 225]}"}
+{"image": ["./data/test/003097.jpg"], "query": "where is the lady posing?", "response": "{\"bbox_2d\": [280, 4, 459, 148]}"}
+{"image": ["./data/test/003098.jpg"], "query": "is there a lycamobile nearby?", "response": "{\"bbox_2d\": [231, 278, 304, 326]}"}
+{"image": ["./data/test/003099.jpg"], "query": "is that a cla billboard?", "response": "{\"bbox_2d\": [429, 411, 496, 437]}"}
+{"image": ["./data/test/003100.jpg"], "query": "what is the name of the rec center holding this event?", "response": "{\"bbox_2d\": [55, 908, 551, 968]}"}
