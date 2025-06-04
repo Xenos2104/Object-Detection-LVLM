@@ -1,0 +1,1 @@
+https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-3B-Instruct

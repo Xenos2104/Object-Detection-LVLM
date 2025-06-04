@@ -1,27 +1,14 @@
-"""
-提示工具 - 管理和格式化提示模板
-"""
-
 from string import Template
 
 
 def format_prompt(template, **kwargs):
-    """
-    格式化提示模板
-
-    参数:
-        template: 提示模板字符串
-        **kwargs: 要替换的变量
-
-    返回:
-        str: 格式化后的提示字符串
-    """
     return Template(template).substitute(**kwargs)
 
 
 # 目标检测提示模板
-DETECTION_PROMPT = '''
-你是一个智能的视觉分析助手，能够理解图像内容并回答用户问题。请仔细分析提供的图像，并根据用户的查询完成以下任务：
+PROMPT = \
+'''
+你是一个视觉分析助手，能够理解图像内容并回答用户问题。请仔细分析提供的图像，并根据用户的查询完成以下任务：
 
 **任务说明**
 1. 根据用户问题，智能地识别和定位图像中的相关物体

@@ -1,0 +1,1 @@
+https://www.modelscope.cn/datasets/Tina12345/textVQA_groundingtask_bbox
