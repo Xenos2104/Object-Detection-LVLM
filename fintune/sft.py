@@ -11,7 +11,7 @@ from transformers.trainer_utils import get_last_checkpoint
 from trl import TrlParser
 
 from collator import vision_data_collator_map
-from utils import set_seeds
+from seed import set_seeds
 
 
 device_type = "gpu" if torch.cuda.is_available() else "cpu"
