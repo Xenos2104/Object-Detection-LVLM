@@ -51,6 +51,7 @@ pip install -r requirements.txt
 ```
 
 3. 配置环境变量
+
 编辑.env文件，填入API密钥
 ```bash
 cp .env.example .env
