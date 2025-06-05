@@ -93,7 +93,7 @@ python app.py
 │   ├── api.py            # API模式
 │   └── local.py          # 本地模式
 ├── model/                # 模型文件夹
-└── finetune/              # 微调相关
+└── finetune/             # 微调相关
 ```
 
 ## 系统说明
