@@ -33,7 +33,7 @@
 **训练模型**
 - Python 3.12
 - CUDA 12.4
-- GPU A100-PCIE-40GB(40GB) * 2
+- GPU A100-PCIE-40GB * 2
 - CPU 20 vCPU Intel Xeon Processor (Skylake, IBRS)
 - 内存 144GB
 
