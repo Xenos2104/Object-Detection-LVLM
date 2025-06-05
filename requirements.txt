@@ -21,3 +21,4 @@ diffusers
 torchvision
 torchaudio
 swanlab
+deepseed
