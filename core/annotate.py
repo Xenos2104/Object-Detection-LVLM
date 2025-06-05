@@ -8,9 +8,12 @@ def annotate(image, detections, output_path=None, input_width=None, input_height
 
     # 加载字体
     try:
-        font = ImageFont.truetype("simhei.ttf", 40)
+        font = ImageFont.truetype("simhei.ttf", 25)
     except:
-        font = ImageFont.load_default()
+        try:
+            font = ImageFont.truetype("/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc", 25)
+        except:
+            font = ImageFont.load_default()
 
     # 颜色列表，用于不同对象的标注
     colors = ['red', 'green', 'blue', 'yellow', 'purple', 'orange',
@@ -44,12 +47,12 @@ def annotate(image, detections, output_path=None, input_width=None, input_height
                 x1, y1, x2, y2 = bbox
 
             text = f"{label}"
-            bbox_text = draw.textbbox((x1, y1 - 30), text, font=font)
+            bbox_text = draw.textbbox((x1, y1 - 50), text, font=font)
             text_width = bbox_text[2] - bbox_text[0]
 
-            draw.rectangle([x1, y1, x2, y2], outline=color, width=4)
-            draw.rectangle([x1, y1 - 30, x1 + text_width, y1], fill=color)
-            draw.text((x1, y1 - 30), text, fill='white', font=font)
+            draw.rectangle([x1, y1, x2, y2], outline=color, width=5)
+            draw.rectangle([x1, y1 - 50, x1 + text_width, y1], fill=color)
+            draw.text((x1, y1 - 50), text, fill='white', font=font)
 
 
     # 保存图片

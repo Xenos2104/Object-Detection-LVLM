@@ -60,7 +60,7 @@ with gr.Blocks(title="LVLM目标检测系统", theme=gr.themes.Soft(), css=CSS) 
                 model_choice = gr.Radio(["API模式", "本地模式"],
                                         label="选择LVLM",
                                         value="API模式" if not USE_LOCAL_MODEL else "本地模式",
-                                        info="API模式需要网络连接，本地模式至少需要一张RTX 3090 24GB")
+                                        info="API模式需要网络连接，本地模式推荐使用一张RTX 3090 24GB")
         with gr.Column(scale=1):
             gr.HTML("")
 
@@ -99,7 +99,7 @@ with gr.Blocks(title="LVLM目标检测系统", theme=gr.themes.Soft(), css=CSS) 
 # 启动应用
 if __name__ == "__main__":
     if USE_LOCAL_MODEL and not torch.cuda.is_available():
-        print("本地模式需要CUDA支持，但未检测到可用的GPU。将自动切换到API模式。")
+        print("未检测到可用的GPU。将自动切换到API模式。")
         import sys
 
         config_module = sys.modules['config']

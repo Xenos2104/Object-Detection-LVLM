@@ -21,4 +21,3 @@ diffusers
 torchvision
 torchaudio
 swanlab
-deepspeed

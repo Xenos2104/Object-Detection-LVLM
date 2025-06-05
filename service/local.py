@@ -17,8 +17,9 @@ class LocalModel:
             # bfloat16
             self.model = Qwen2_5_VLForConditionalGeneration.from_pretrained(self.model_path,
                                                                             torch_dtype=torch.bfloat16,
+                                                                            attn_implementation="flash_attention_2",
                                                                             device_map="auto")
-            self.processor = AutoProcessor.from_pretrained('model/Qwen2.5-VL-3B-Instruct')
+            self.processor = AutoProcessor.from_pretrained('./model/Qwen2.5-VL-3B-Instruct')
             print("本地模型加载完成")
             return True
         except Exception as e:
@@ -26,6 +27,7 @@ class LocalModel:
             return False
 
     def inference(self, image, prompt, system_prompt=SYSTEM_PROMPT, max_tokens=MAX_TOKENS):
+        print('正在推理')
         if self.model is None or self.processor is None:
             success = self.load()
             if not success:
@@ -68,5 +70,6 @@ class LocalModel:
         # 获取输入图像尺寸
         input_height = inputs['image_grid_thw'][0][1] * 14
         input_width = inputs['image_grid_thw'][0][2] * 14
-
+        print('推理完成')
+        print(output_text[0])
         return output_text[0], input_height, input_width

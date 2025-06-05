@@ -5,7 +5,7 @@ dotenv.load_dotenv()
 
 # 模型配置
 USE_LOCAL_MODEL = True
-MODEL_PATH = "model/Qwen2.5-VL-3B-Instruct-X"  # 本地模型路径
+MODEL_PATH = "./model/Qwen2.5-VL-3B-Instruct-X"  # 本地模型路径
 MAX_TOKENS = 2048  # 生成的token数
 
 # API配置
